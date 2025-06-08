@@ -1,4 +1,6 @@
-public class Main {
+package FactoryMethod;
+
+public class Example1 {
 
     public static void main(String[] args) {
         DessertFactory cakeFactory = new CakeFactory();
