@@ -11,7 +11,6 @@ public class Example2 {
         letterFactory.send("Hello via Letter!");
     }
 
-
     interface Message {
 
         void sendMessage(String message);
